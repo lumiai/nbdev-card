@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-card"
+  site-url: "https://lumiai.github.io/nbdev-card"
+  description: "nbdev tutorial following Jeremy Howard"
+  repo-branch: main
+  repo-url: "https://github.com/lumiai/nbdev-card"
